@@ -1,0 +1,54 @@
+{
+  "player": [
+    {
+      "playername": "Rafael Nadal",
+      "country": " Spain",
+      "playerscore": "1255",
+      "exp": "17",
+      "age": "34",
+      "password": "hiii",
+      "confirmpassword": "hiii",
+      "id": 1
+    },
+    {
+      "playername": "Roger Federer",
+      "country": "Swiss",
+      "playerscore": "1244",
+      "exp": "17",
+      "age": "34",
+      "password": "nupur",
+      "confirmpassword": "nupur",
+      "id": 2
+    },
+    {
+      "playername": "Alexander Zverev",
+      "country": "Germany",
+      "playerscore": "1244",
+      "exp": "17",
+      "age": "25",
+      "password": "alex",
+      "confirmpassword": "alex",
+      "id": 3
+    },
+    {
+      "playername": "Serena Williams",
+      "country": "USA",
+      "playerscore": "1255",
+      "exp": "20",
+      "age": "36",
+      "password": "hey",
+      "confirmpassword": "hey",
+      "id": 4
+    },
+    {
+      "playername": "Dominic Thiem",
+      "country": "Austria",
+      "playerscore": "1255",
+      "exp": "8",
+      "age": "26",
+      "password": "admin",
+      "confirmpassword": "admin",
+      "id": 5
+    }
+  ]
+}
